@@ -1,0 +1,60 @@
+html {
+	font-family: sans-serif;
+}
+
+h1 {
+	color: green;
+	text-transform: uppercase;
+	
+}
+
+.Layer_12copy {
+	 opacity: 0.900;
+} 
+  ul {
+	list-style: none; /*убираем маркеры списка*/
+	margin: 0; /*убираем отступы*/
+	padding-left: 0; /*убираем отступы*/
+  }
+  a {
+	text-decoration: none; /*убираем подчеркивание текста ссылок*/
+  }
+  li {
+	float:left; /*Размещаем список горизонтально для реализации меню*/
+	margin-right:100px; /*Добавляем отступ у пунктов меню*/
+  }
+  body {
+	background-image: url('777.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+  }	
+ .html  section h2 {
+	list-style: none; /*убираем маркеры списка*/
+	margin: 0; /*убираем отступы*/
+	padding-left: 0; /*убираем отступы*/
+  }
+  a {
+	text-decoration: none; /*убираем подчеркивание текста ссылок*/
+  }
+  .li {
+	float:left; /*Размещаем список горизонтально для реализации меню*/
+	margin-right:100px; /*Добавляем отступ у пунктов меню*/
+  }
+  main{
+	display: inline-block;
+	transform: translate(-30em, 2em);
+  }
+ div h2 {
+	display: inline-block;
+	transform: translate(-30em, 9em);
+
+}
+div a {
+	display: inline-block;
+	transform: translate(-30em, 11em);
+
+}	
+footer a  {
+	color:orange;
+}
